@@ -3,7 +3,7 @@
     "class_name": "faq_reader",
     "x_col_name": "Question",
     "y_col_name": "Answer",
-    "data_url": "http://files.deeppavlov.ai/faq/school/faq_school_en.csv"
+    "data_url": "https://raw.githubusercontent.com/saimanasa97/ncrwork/master/faq_school_en.csv"
   },
   "dataset_iterator": {
     "class_name": "data_learning_iterator"
